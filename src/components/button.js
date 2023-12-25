@@ -17,7 +17,7 @@ const Button = () => {
 </button>
 
 	
-<img className="avatar-img rounded-2" src="ava.jpg" id="avg"></img>
+
 
 
 </form>
